@@ -1,3 +1,3 @@
-Quantum-Hybrid Mixture-Based Reservoir for Quantum Reservoir Computing
+**Quantum-Hybrid Mixture-Based Reservoir for Quantum Reservoir Computing**
 
 something something
