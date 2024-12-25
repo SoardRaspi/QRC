@@ -4,4 +4,4 @@ In my journey of learning about Quantum Computing and Quantum Machine Learning, 
 
 Talking about the field of Quantum Machine Learning (QML), the idea can be seen as a mixture of perceptrons and a few qubits in each of the layers. Between two consecutive layers, the idea proposes entanglement of qubits from one layer to those of the other layer. Graphically, the implementations looks like:
 
-figure
+![alt text](https://github.com/SoardRaspi/Quantum-RC-Reservoir-Computing-/blob/[branch]/image.jpg?raw=true)
