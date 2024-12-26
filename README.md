@@ -1,5 +1,7 @@
 <h1>QRC - Quantum Reservoir Computing</h1>
 
+The main submission file is the "main submission.ipynb" jupyter notebook and the trained model in the pickle file is "best_xgboost_allcateg_XYZZY.pkl".
+
 The maximum recall for the minority class I could achieve is **0.51**. I tried various things to maximize the recall score for this label. The one which worked was XGBoost post-processing with the observable "XYZZY" used for the quantum reservoir. The value of this observable is used along with the integer-valued features and then used to classify into two classes (1 - majority class, 2 - minority class).
 
 <h3>Data Pre-Processing</h3>
