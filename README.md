@@ -5,3 +5,5 @@ In my journey of learning about Quantum Computing and Quantum Machine Learning, 
 Talking about the field of Quantum Machine Learning (QML), the idea can be seen as a mixture of perceptrons and a few qubits in each of the layers. Between two consecutive layers, the idea proposes entanglement of qubits from one layer to those of the other layer. Graphically, the implementations looks like:
 
 ![Quantum RC](https://github.com/SoardRaspi/Quantum-RC-Reservoir-Computing-/blob/main/Bloq%20Crazy.png)
+
+In the above diagram, in each layer, there are two types of 'circles' with a different label. In the black-filled circle, the naming followed is ![equation](https://latex.codecogs.com/svg.image?\textit{p}_{l\_i}) and in the white-filled circle, the naming followed is ![equation](https://latex.codecogs.com/svg.image?\textit{q}_{l\_i}). Here, 'p' represents a simple perceptron which is used in the normal neural networks and 'q' represents the quibt which is being used along-side the perceptrons in the layer. In the subscript, 'l' represents the layer number and 'i' represents the number of perceptron or qubit in that layer.
