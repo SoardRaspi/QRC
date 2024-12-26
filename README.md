@@ -1,3 +1,5 @@
+<h1>QRC - Quantum Reservoir Computing</h1>
+
 ![image](https://github.com/user-attachments/assets/965a042c-9a8b-4a00-9c75-ac64c8574358)
 
 **Quantum-Hybrid Mixture-Based Network for Quantum Machine Learning**
