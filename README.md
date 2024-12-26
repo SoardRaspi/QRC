@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4ba54083-4cef-4995-adb2-9982d9571956)
+![image](https://github.com/user-attachments/assets/965a042c-9a8b-4a00-9c75-ac64c8574358)
 
 **Quantum-Hybrid Mixture-Based Network for Quantum Machine Learning**
 
